@@ -85,7 +85,7 @@ public class View extends JFrame implements ActionListener{
 		// Top Panel
 		topPanel = new JPanel(new GridLayout(2, 4));
 		viewPanel = new JPanel();
-		viewLabel = new JLabel("Insert");
+		viewLabel = new JLabel("View");
 		viewLabel.setFont(new Font("Arial", Font.BOLD, 30));
 		labelPanel = new JPanel(new GridLayout(1, 1));
 		kodeLPanel = new JPanel();
