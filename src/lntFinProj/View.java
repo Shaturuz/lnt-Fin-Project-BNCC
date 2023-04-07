@@ -96,7 +96,7 @@ public class View extends JFrame implements ActionListener{
 		kodeLabel = new JLabel("Kode");
 		namaLabel = new JLabel("Nama");
 		hargaLabel = new JLabel("Harga");
-		stokLabel = new JLabel("Stok");
+		stokLabel = new JLabel("Stok"); 
 		
 		kodeLPanel.add(kodeLabel);
 		namaLPanel.add(namaLabel);
